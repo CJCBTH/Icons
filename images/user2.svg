@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="credit-card" transform="matrix(14.7726,0,0,15.1001,-4072.11,-2694.81)">
+        <g transform="matrix(1,0,0,0.955422,0,8.69274)">
+            <path d="M342,197C342,195.9 341.1,195 340,195L284,195C282.9,195 282,195.9 282,197L282,233C282,234.1 282.9,235 284,235L340,235C341.1,235 342,234.1 342,233L342,197Z" style="fill-rule:nonzero;"/>
+        </g>
+        <path d="M342,195C342,193.9 341.1,193 340,193L284,193C282.9,193 282,193.9 282,195L282,231C282,232.1 282.9,233 284,233L340,233C341.1,233 342,232.1 342,231L342,195Z" style="fill:white;fill-rule:nonzero;stroke:black;stroke-width:1.72px;"/>
+        <g transform="matrix(0.584613,0,0,1,140.401,0)">
+            <rect x="306" y="213" width="32" height="5" style="fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(0.660598,0,0,1,114.718,-9.72614)">
+            <rect x="306" y="213" width="32" height="5" style="fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.11579,0,0,1,-39.1362,0)">
+            <rect x="324" y="222" width="14" height="5" style="fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(1.05147,0,0,0.965732,-19.7781,75.7233)">
+        <path d="M502.433,715.904L242.803,717.557C230.912,717.633 219.611,711.923 211.986,701.988C204.361,692.053 201.209,678.93 203.391,666.203L233.994,487.668C237.453,467.489 253.425,452.709 272.274,452.246L474.114,447.287C493.99,446.798 511.156,462.333 514.351,483.698L541.538,665.539C543.409,678.057 540.157,690.84 532.637,700.525C525.117,710.211 514.082,715.83 502.433,715.904Z" style="fill:white;stroke:black;stroke-width:41.15px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+    <g transform="matrix(1.53628,0,0,1.57129,-195.397,-293.792)">
+        <ellipse cx="370.576" cy="430.443" rx="75.432" ry="71.242" style="fill:white;stroke:black;stroke-width:20.59px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+    </g>
+</svg>
